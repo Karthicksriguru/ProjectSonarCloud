@@ -26,8 +26,8 @@ steps:
     SonarCloud: 'SonarCloud Connection'
     organization: 'kkgroupsoftech'
     scannerMode: 'MSBuild'
-    projectKey: 'AZ-400 Demo Repos NEW'
-    projectName: 'AZ-400 Demo Repos NEW'
+    projectKey: 'kkgroupsoftech'
+    projectName: 'kkgroupsoftech'
 
 - task: VSBuild@1
   inputs:
